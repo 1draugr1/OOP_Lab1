@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Education\\Lab Works\\OOP\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE5ECA2-DC99-4185-AD5F-3FDF1410C49E}|..\\Lab1.Tests\\Lab1.Tests.csproj|c:\\education\\lab works\\oop\\lab1.tests\\rationalnumber.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEDCDE4-B29F-483C-8C09-B6B5876ABE7D}|Lab1.csproj|C:\\Education\\Lab Works\\OOP\\Lab1\\task1\\rationalnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEDCDE4-B29F-483C-8C09-B6B5876ABE7D}|Lab1.csproj|solutionrelative:task1\\rationalnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEDCDE4-B29F-483C-8C09-B6B5876ABE7D}|Lab1.csproj|C:\\Education\\Lab Works\\OOP\\Lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEDCDE4-B29F-483C-8C09-B6B5876ABE7D}|Lab1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RationalNumber.cs",
+              "DocumentMoniker": "C:\\Education\\Lab Works\\OOP\\Lab1\\Task1\\RationalNumber.cs",
+              "RelativeDocumentMoniker": "Task1\\RationalNumber.cs",
+              "ToolTip": "C:\\Education\\Lab Works\\OOP\\Lab1\\Task1\\RationalNumber.cs",
+              "RelativeToolTip": "Task1\\RationalNumber.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:14:21.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RationalNumber.Tests.cs",
+              "DocumentMoniker": "C:\\Education\\Lab Works\\OOP\\Lab1.Tests\\RationalNumber.Tests.cs",
+              "RelativeDocumentMoniker": "..\\Lab1.Tests\\RationalNumber.Tests.cs",
+              "ToolTip": "C:\\Education\\Lab Works\\OOP\\Lab1.Tests\\RationalNumber.Tests.cs",
+              "RelativeToolTip": "..\\Lab1.Tests\\RationalNumber.Tests.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAcwGQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:01:07.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Education\\Lab Works\\OOP\\Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Education\\Lab Works\\OOP\\Lab1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:53:10.021Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
